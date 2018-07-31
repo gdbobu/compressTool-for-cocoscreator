@@ -1,0 +1,11 @@
+{
+  "name": "ZipTool",
+  "version": "0.0.1",
+  "private": false,
+  "description": "just a tool",
+  "author": "<gdbobu@gmail.com>",
+  "dependencies": {
+    "zlibjs": "^0.3.1",
+    "text-encoding": "^0.6.4"
+  }
+}
